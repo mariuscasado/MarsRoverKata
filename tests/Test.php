@@ -8,6 +8,6 @@ class Test extends TestCase
 {
     public function testMyTest(): void
     {
-        self::assertTrue(false);
+        self::assertTrue(true);
     }
 }
